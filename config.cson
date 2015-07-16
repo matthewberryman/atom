@@ -9,8 +9,7 @@
     userId: "92ab386e3811a2d9a3a2f8bb17a70c5dfd7af69e"
   editor:
     softWrap: true
-    invisibles:
-      {}
+    invisibles: {}
   core:
     themes: [
       "one-light-ui"
