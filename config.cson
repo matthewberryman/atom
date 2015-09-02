@@ -10,6 +10,8 @@
   editor:
     softWrap: true
     invisibles: {}
+    fontFamily: "Hack"
+    fontSize: 13
   core:
     themes: [
       "one-light-ui"
@@ -33,4 +35,4 @@
     newlinesAsIsMode: false
 ".python.source":
   editor:
-    tabLength: 2
+    tabLength: 4
