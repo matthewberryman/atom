@@ -33,6 +33,8 @@
       smartypants: true
       langPrefix: "lang-"
     newlinesAsIsMode: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
 ".python.source":
   editor:
     tabLength: 4
