@@ -6,3 +6,4 @@ storage
 .npm
 .node-gyp
 .apm
+blob-store/
